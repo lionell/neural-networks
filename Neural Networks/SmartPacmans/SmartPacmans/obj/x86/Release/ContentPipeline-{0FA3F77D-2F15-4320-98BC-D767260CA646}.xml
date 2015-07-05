@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>font.spritefont</Source>
+      <Name>font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Projects\C#\Neural Networks\SmartPacmans\SmartPacmans\bin\x86\Release\Content\font.xnb</Output>
+      <Time>2014-03-22T23:33:12.5620927+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ghost1.png</Source>
+      <Name>ghost1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Projects\C#\Neural Networks\SmartPacmans\SmartPacmans\bin\x86\Release\Content\ghost1.xnb</Output>
+      <Time>2014-03-23T14:01:19.4166244+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ghost2.png</Source>
+      <Name>ghost2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Projects\C#\Neural Networks\SmartPacmans\SmartPacmans\bin\x86\Release\Content\ghost2.xnb</Output>
+      <Time>2014-03-23T14:01:19.4206326+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ghost3.png</Source>
+      <Name>ghost3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Projects\C#\Neural Networks\SmartPacmans\SmartPacmans\bin\x86\Release\Content\ghost3.xnb</Output>
+      <Time>2014-03-23T14:01:19.423629+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ghost4.png</Source>
+      <Name>ghost4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Projects\C#\Neural Networks\SmartPacmans\SmartPacmans\bin\x86\Release\Content\ghost4.xnb</Output>
+      <Time>2014-03-23T14:01:19.4257997+02:00</Time>
+    </Item>
+    <Item>
+      <Source>pacman.png</Source>
+      <Name>pacman</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Projects\C#\Neural Networks\SmartPacmans\SmartPacmans\bin\x86\Release\Content\pacman.xnb</Output>
+      <Time>2014-03-23T14:01:19.427766+02:00</Time>
+    </Item>
+    <Item>
+      <Source>rip.png</Source>
+      <Name>rip</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Projects\C#\Neural Networks\SmartPacmans\SmartPacmans\bin\x86\Release\Content\rip.xnb</Output>
+      <Time>2014-03-23T20:09:15.3293669+02:00</Time>
+    </Item>
+    <Item>
+      <Source>background.jpg</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Projects\C#\Neural Networks\SmartPacmans\SmartPacmans\bin\x86\Release\Content\background.xnb</Output>
+      <Time>2014-03-24T10:32:21.585202+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{0FA3F77D-2F15-4320-98BC-D767260CA646}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>D:\Projects\C#\Neural Networks\SmartPacmans\SmartPacmansContent\</RootDirectory>
+      <LoggerRootDirectory>D:\Projects\C#\Neural Networks\SmartPacmans\SmartPacmans\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Projects\C#\Neural Networks\SmartPacmans\SmartPacmans\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>D:\Projects\C#\Neural Networks\SmartPacmans\SmartPacmans\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-03-17T13:44:13.3516352+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,16 @@
+D:\Projects\C#\Neural Networks\SmartPacmans\SmartPacmans\bin\x86\Release\Content\font.xnb
+D:\Projects\C#\Neural Networks\SmartPacmans\SmartPacmans\bin\x86\Release\Content\ghost1.xnb
+D:\Projects\C#\Neural Networks\SmartPacmans\SmartPacmans\bin\x86\Release\Content\ghost2.xnb
+D:\Projects\C#\Neural Networks\SmartPacmans\SmartPacmans\bin\x86\Release\Content\ghost3.xnb
+D:\Projects\C#\Neural Networks\SmartPacmans\SmartPacmans\bin\x86\Release\Content\ghost4.xnb
+D:\Projects\C#\Neural Networks\SmartPacmans\SmartPacmans\bin\x86\Release\Content\pacman.xnb
+D:\Projects\C#\Neural Networks\SmartPacmans\SmartPacmans\bin\x86\Release\Content\rip.xnb
+D:\Projects\C#\Neural Networks\SmartPacmans\SmartPacmans\bin\x86\Release\Content\background.xnb
+D:\Projects\C#\Neural Networks\SmartPacmans\SmartPacmans\bin\x86\Release\SmartPacmans.exe
+D:\Projects\C#\Neural Networks\SmartPacmans\SmartPacmans\bin\x86\Release\SmartPacmans.pdb
+D:\Projects\C#\Neural Networks\SmartPacmans\SmartPacmans\bin\x86\Release\Neural Project.exe
+D:\Projects\C#\Neural Networks\SmartPacmans\SmartPacmans\bin\x86\Release\Neural Project.pdb
+D:\Projects\C#\Neural Networks\SmartPacmans\SmartPacmans\obj\x86\Release\SmartPacmans.csprojResolveAssemblyReference.cache
+D:\Projects\C#\Neural Networks\SmartPacmans\SmartPacmans\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Projects\C#\Neural Networks\SmartPacmans\SmartPacmans\obj\x86\Release\SmartPacmans.exe
+D:\Projects\C#\Neural Networks\SmartPacmans\SmartPacmans\obj\x86\Release\SmartPacmans.pdb

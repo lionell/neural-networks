@@ -1,0 +1,8 @@
+Content\ghost1.xnb
+Content\ghost2.xnb
+Content\ghost3.xnb
+Content\ghost4.xnb
+Content\pacman.xnb
+Content\Font.xnb
+Content\rip.xnb
+Content\background.xnb

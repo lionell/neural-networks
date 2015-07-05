@@ -1,0 +1,6 @@
+D:\Projects\C#\Neural Networks\Neural Project\bin\Release\Neural Project.exe.config
+D:\Projects\C#\Neural Networks\Neural Project\bin\Release\Neural Project.exe
+D:\Projects\C#\Neural Networks\Neural Project\bin\Release\Neural Project.pdb
+D:\Projects\C#\Neural Networks\Neural Project\obj\Release\Neural Project.exe
+D:\Projects\C#\Neural Networks\Neural Project\obj\Release\Neural Project.pdb
+D:\Projects\C#\Neural Networks\Neural Project\obj\Release\Neural Project.csprojResolveAssemblyReference.cache

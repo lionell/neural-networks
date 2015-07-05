@@ -1,0 +1,16 @@
+D:\Projects\C#\Neural Networks\SmartPacmans\SmartPacmans\bin\x86\Debug\Content\ghost1.xnb
+D:\Projects\C#\Neural Networks\SmartPacmans\SmartPacmans\bin\x86\Debug\Content\ghost2.xnb
+D:\Projects\C#\Neural Networks\SmartPacmans\SmartPacmans\bin\x86\Debug\Content\ghost3.xnb
+D:\Projects\C#\Neural Networks\SmartPacmans\SmartPacmans\bin\x86\Debug\Content\ghost4.xnb
+D:\Projects\C#\Neural Networks\SmartPacmans\SmartPacmans\bin\x86\Debug\Content\pacman.xnb
+D:\Projects\C#\Neural Networks\SmartPacmans\SmartPacmans\bin\x86\Debug\SmartPacmans.exe
+D:\Projects\C#\Neural Networks\SmartPacmans\SmartPacmans\bin\x86\Debug\SmartPacmans.pdb
+D:\Projects\C#\Neural Networks\SmartPacmans\SmartPacmans\obj\x86\Debug\SmartPacmans.csprojResolveAssemblyReference.cache
+D:\Projects\C#\Neural Networks\SmartPacmans\SmartPacmans\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Projects\C#\Neural Networks\SmartPacmans\SmartPacmans\obj\x86\Debug\SmartPacmans.exe
+D:\Projects\C#\Neural Networks\SmartPacmans\SmartPacmans\obj\x86\Debug\SmartPacmans.pdb
+D:\Projects\C#\Neural Networks\SmartPacmans\SmartPacmans\bin\x86\Debug\Neural Project.exe
+D:\Projects\C#\Neural Networks\SmartPacmans\SmartPacmans\bin\x86\Debug\Neural Project.pdb
+D:\Projects\C#\Neural Networks\SmartPacmans\SmartPacmans\bin\x86\Debug\Content\Font.xnb
+D:\Projects\C#\Neural Networks\SmartPacmans\SmartPacmans\bin\x86\Debug\Content\rip.xnb
+D:\Projects\C#\Neural Networks\SmartPacmans\SmartPacmans\bin\x86\Debug\Content\background.xnb
