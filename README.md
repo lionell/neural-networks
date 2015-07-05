@@ -8,6 +8,11 @@ The main idea is to make tools for comfortable developing neural networks. As th
 * /Neural Networks/Neural Project/Examples contains examples of library usage
 * /Neural Networks/SmartPacmans contains demo game my library
 
+### Bonus
+![Smart Pacmans](https://github.com/lionell/lionell.github.io/blob/master/images/pic03.jpg "Demo game")
+
+A great part of project is demo game Smart Pacmans. You can enjoy neural networks + genetic algorithms. Idea is taken from [this article](http://habrahabr.ru/post/168067)
+
 ### System Requirements:
 * DirectX 9.0 or higher
 * .Net Framework 4.5 or higher
@@ -17,11 +22,6 @@ The main idea is to make tools for comfortable developing neural networks. As th
 * DirectX 9.0
 * .Net Framework 4.5
 * XNA Game Framework 4.0
-
-### Bonus
-![Smart Pacmans](https://github.com/lionell/lionell.github.io/blob/master/images/pic03.jpg "Demo game")
-
-A great part of project is demo game Smart Pacmans. You can enjoy neural networks + genetic algorithms. Idea is taken from [this article](http://habrahabr.ru/post/168067)
 
 ### License
 MIT
