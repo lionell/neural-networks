@@ -19,7 +19,7 @@ The main idea is to make tools for comfortable developing neural networks. As th
 * XNA Game Framework 4.0
 
 ### Bonus
-[Smart Pacmans](https://github.com/lionell/lionell.github.io/blob/master/images/pic03.jpg "Demo game")
+![Smart Pacmans](https://github.com/lionell/lionell.github.io/blob/master/images/pic03.jpg "Demo game")
 
 A great part of project is demo game Smart Pacmans. You can enjoy neural networks + genetic algorithms. Idea is taken from [this article](http://habrahabr.ru/post/168067)
 
